@@ -1,4 +1,4 @@
-nginx
+infra/rabbitmq:3.7-management-alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
