@@ -13,7 +13,6 @@ env:
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
 
 jobs:
-
   build:
     name: Pull
     runs-on: ubuntu-latest
